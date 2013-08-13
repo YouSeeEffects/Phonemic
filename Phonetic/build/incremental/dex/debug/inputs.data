@@ -1,0 +1,22 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376371691000 1695 52dabe37d5ef06c3bc2d910ab9f46ed72251ef66 /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/R$raw.class
+1376371691000 3742 843b8f6638bdf0904982c95515665f5449411e4a /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/MuzakService.class
+1376371691000 443 a7b2f3de322e3bf18771401b96f81e9ff15df592 /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/R$style.class
+1376371691000 456 8755cac42d3b20715b6c782bbde7f95a92d2991f /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/R$id.class
+1376371691000 685 9cdfd93b7aeabdd005784f1b0555f8a0d9b5885f /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/R$string.class
+1376371691000 4991 82293bec4e48a9369935bef0cc19919d1069e542 /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/PhoneticDatabaseHandler$RAWID.class
+1376372316000 4422 aabd99567abdb2c346586a7cca013c791d99f728 /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/PhoneticDatabaseHandler.class
+1376371691000 352 964b192808952649abac0730b0ad9b44333e234a /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/R$attr.class
+1374783100000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/kizzlebot/.AndroidStudioPreview/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1376371691000 457 3bc75336b447ee899c00ef461318dd5adedb8052 /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/R$layout.class
+1376371691000 1299 a45d33ab3e879659d265aa5c87db208d91336491 /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/MainActivity$ResponseReceiver.class
+1376371691000 6228 a5f617f27c2624bdc2968f64a553a0903b8b7886 /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/R$drawable.class
+1376371691000 353 1106b704e2c4d0af4fc7c1a053f69b214bc600ac /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/BuildConfig.class
+1376371691000 473 1291a601f30f70b01836692477d639490eac8166 /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/R$dimen.class
+1376371691000 831 6f636c5c7e80ed1660786fd83f448ae9605755f3 /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/MuzakService$2.class
+1376371691000 1110 b9e252a40b9e31c9ad399042fe8a75e6e6f67405 /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/Word.class
+1376371691000 2057 2dff44db1e53cda63086ec527425148e2d1b501b /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/MuzakService$1.class
+1376371691000 3261 92e00b7f42b01a621d67b8f5902f6dd2b12f1086 /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/MainActivity.class
+1376371691000 715 32fd120463a2441c502f78b72aa439756ba31ef7 /home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/classes/debug/com/kizzlebot/phonetic/R.class

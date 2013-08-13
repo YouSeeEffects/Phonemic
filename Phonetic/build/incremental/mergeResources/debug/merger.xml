@@ -1,0 +1,2523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res" >
+            <file
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Black" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="db_name" >cmudict0.7a.sqlite
+                </string>
+                <string name="textField" >Hello
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="button" >Go
+                </string>
+                <string name="app_name" >Phonetic
+                </string>
+                <string name="closing_low_memory" >Closing low on memory
+                </string>
+                <string name="text" >Hello
+                </string>
+                <string name="action_search" >Search
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                name="activity_main"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_menu_activity"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/layout/main_menu_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="deviceaccessbattery"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessbattery.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="imagesrotateright"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/imagesrotateright.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="navigationcollapse"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/navigationcollapse.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="hardwarekeyboard"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/hardwarekeyboard.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="collectionscloud"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/collectionscloud.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessalarms"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessalarms.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avstop"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avstop.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="socialforward"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/socialforward.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessaddalarm"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessaddalarm.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessscreenlockedtoportrait"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessscreenlockedtoportrait.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="socialaddgroup"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/socialaddgroup.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avfastforward"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avfastforward.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesssdstorage"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccesssdstorage.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="alertsandstatesairplanemodeon"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/alertsandstatesairplanemodeon.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="hardwareheadphones"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/hardwareheadphones.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbightnesslow"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessbightnesslow.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avpause"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avpause.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesscall"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccesscall.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessaccounts"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessaccounts.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ratingnotimportant"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/ratingnotimportant.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ratingbad"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/ratingbad.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="navigationback"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/navigationback.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentpaste"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentpaste.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessmicmuted"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessmicmuted.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessflashoff"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessflashoff.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avplay"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avplay.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avdownload"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avdownload.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessflashon"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessflashon.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="socialshare"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/socialshare.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentattachment"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentattachment.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="collectionsviewasgrid"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/collectionsviewasgrid.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="hardwareheadset"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/hardwareheadset.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesssecure"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccesssecure.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avreturnfromfullscreen"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avreturnfromfullscreen.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ratinghalfimportant"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/ratinghalfimportant.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avnext"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avnext.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentundo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentundo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="imagescrop"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/imagescrop.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessmic"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessmic.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="collectionslabels"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/collectionslabels.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentremove"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentremove.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbluetoothconnected"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessbluetoothconnected.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avpauseovervideo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avpauseovervideo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="locationwebsite"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/locationwebsite.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbluetooth"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessbluetooth.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="collectionsgototoday"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/collectionsgototoday.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="locationplace"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/locationplace.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ratingimportant"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/ratingimportant.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessflashautomatic"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessflashautomatic.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessvolumemuted"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessvolumemuted.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentread"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentread.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="locationmap"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/locationmap.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="iclauncher"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/iclauncher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avupload"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avupload.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="alertsandstateserror"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/alertsandstateserror.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avaddtoqueue"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avaddtoqueue.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentdiscard"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentdiscard.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="navigationforward"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/navigationforward.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="actionsettings"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/actionsettings.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="hardwarephone"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/hardwarephone.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="navigationaccept"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/navigationaccept.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="alertsandstateswarning"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/alertsandstateswarning.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentnewattachment"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentnewattachment.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="actionhelp"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/actionhelp.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avreplay"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avreplay.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesscamera"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccesscamera.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesstime"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccesstime.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="collectionscollection"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/collectionscollection.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="socialreply"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/socialreply.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentnewevent"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentnewevent.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentnewemail"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentnewemail.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="actionabout"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/actionabout.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessswitchcamera"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessswitchcamera.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="navigationpreviousitem"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/navigationpreviousitem.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="navigationcancel"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/navigationcancel.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessscreenlockedtolandscape"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessscreenlockedtolandscape.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avprevious"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avprevious.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="hardwaremouse"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/hardwaremouse.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="socialsendnow"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/socialsendnow.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="collectionsviewaslist"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/collectionsviewaslist.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessusb"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessusb.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="socialperson"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/socialperson.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessscreenrotation"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessscreenrotation.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="actionsearch"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/actionsearch.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avshuffle"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avshuffle.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentnewpicture"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentnewpicture.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="socialgroup"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/socialgroup.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessringvolume"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessringvolume.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="collectionsnewlabel"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/collectionsnewlabel.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="socialchat"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/socialchat.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessdatausage"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessdatausage.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="navigationrefresh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/navigationrefresh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avrewind"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avrewind.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentmerge"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentmerge.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentcopy"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentcopy.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ratinggood"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/ratinggood.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentunread"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentunread.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentedit"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentedit.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessnewaccount"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessnewaccount.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="socialreplyall"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/socialreplyall.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="locationdirections"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/locationdirections.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="collectionssortbysize"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/collectionssortbysize.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="socialaddperson"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/socialaddperson.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avplayovervideo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avplayovervideo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentselectall"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentselectall.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentsave"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentsave.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbluetoothsearching"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessbluetoothsearching.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentimportexport"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentimportexport.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesslocationfound"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccesslocationfound.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avfullscreen"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avfullscreen.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="hardwaredock"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/hardwaredock.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessstorage"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessstorage.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentpicture"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentpicture.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="socialccbcc"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/socialccbcc.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessnetworkwifi"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessnetworkwifi.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentevent"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentevent.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="hardwaregamepad"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/hardwaregamepad.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="alertsandstatesairplanemodeoff"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/alertsandstatesairplanemodeoff.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="navigationnextitem"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/navigationnextitem.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="imagesrotateleft"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/imagesrotateleft.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessnotsecure"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessnotsecure.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentnew"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentnew.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbrightnesshigh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessbrightnesshigh.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentbackspace"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentbackspace.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbrightnessmedium"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessbrightnessmedium.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentsplit"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentsplit.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesslocationoff"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccesslocationoff.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avrepeat"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avrepeat.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessswitchvideo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessswitchvideo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessdialpad"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessdialpad.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="imagesslideshow"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/imagesslideshow.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentemail"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentemail.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="avmakeavailableoffline"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/avmakeavailableoffline.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="contentcut"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/contentcut.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessnetworkcell"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessnetworkcell.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="hardwarecomputer"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/hardwarecomputer.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbrightnessauto"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessbrightnessauto.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessendcall"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessendcall.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ratingfavorite"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/ratingfavorite.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessvolumeon"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessvolumeon.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesslocationsearching"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccesslocationsearching.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessvideo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/deviceaccessvideo.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="navigationexpand"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xhdpi/navigationexpand.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbattery"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessbattery.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="imagesrotateright"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/imagesrotateright.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="navigationcollapse"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/navigationcollapse.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="hardwarekeyboard"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/hardwarekeyboard.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="collectionscloud"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/collectionscloud.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessalarms"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessalarms.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avstop"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avstop.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="socialforward"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/socialforward.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessaddalarm"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessaddalarm.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessscreenlockedtoportrait"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessscreenlockedtoportrait.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="socialaddgroup"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/socialaddgroup.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avfastforward"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avfastforward.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesssdstorage"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccesssdstorage.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="alertsandstatesairplanemodeon"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/alertsandstatesairplanemodeon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="hardwareheadphones"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/hardwareheadphones.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbightnesslow"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessbightnesslow.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avpause"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avpause.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesscall"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccesscall.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessaccounts"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessaccounts.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ratingnotimportant"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/ratingnotimportant.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ratingbad"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/ratingbad.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="navigationback"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/navigationback.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentpaste"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentpaste.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessmicmuted"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessmicmuted.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessflashoff"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessflashoff.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avplay"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avplay.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avdownload"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avdownload.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessflashon"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessflashon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="socialshare"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/socialshare.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentattachment"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentattachment.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="collectionsviewasgrid"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/collectionsviewasgrid.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="hardwareheadset"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/hardwareheadset.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesssecure"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccesssecure.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avreturnfromfullscreen"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avreturnfromfullscreen.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ratinghalfimportant"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/ratinghalfimportant.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avnext"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avnext.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentundo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentundo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="imagescrop"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/imagescrop.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessmic"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessmic.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="collectionslabels"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/collectionslabels.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentremove"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentremove.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbluetoothconnected"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessbluetoothconnected.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avpauseovervideo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avpauseovervideo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="locationwebsite"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/locationwebsite.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbluetooth"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessbluetooth.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="collectionsgototoday"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/collectionsgototoday.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="locationplace"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/locationplace.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ratingimportant"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/ratingimportant.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessflashautomatic"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessflashautomatic.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessvolumemuted"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessvolumemuted.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentread"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentread.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="locationmap"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/locationmap.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="iclauncher"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/iclauncher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avupload"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avupload.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="alertsandstateserror"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/alertsandstateserror.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avaddtoqueue"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avaddtoqueue.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentdiscard"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentdiscard.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="navigationforward"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/navigationforward.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="actionsettings"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/actionsettings.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="hardwarephone"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/hardwarephone.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="navigationaccept"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/navigationaccept.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="alertsandstateswarning"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/alertsandstateswarning.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentnewattachment"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentnewattachment.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="actionhelp"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/actionhelp.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avreplay"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avreplay.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesscamera"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccesscamera.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesstime"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccesstime.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="collectionscollection"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/collectionscollection.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="socialreply"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/socialreply.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentnewevent"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentnewevent.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentnewemail"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentnewemail.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="actionabout"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/actionabout.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessswitchcamera"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessswitchcamera.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="navigationpreviousitem"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/navigationpreviousitem.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="navigationcancel"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/navigationcancel.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessscreenlockedtolandscape"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessscreenlockedtolandscape.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avprevious"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avprevious.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="hardwaremouse"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/hardwaremouse.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="socialsendnow"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/socialsendnow.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="collectionsviewaslist"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/collectionsviewaslist.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessusb"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessusb.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="socialperson"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/socialperson.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessscreenrotation"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessscreenrotation.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="actionsearch"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/actionsearch.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avshuffle"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avshuffle.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentnewpicture"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentnewpicture.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="socialgroup"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/socialgroup.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessringvolume"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessringvolume.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="collectionsnewlabel"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/collectionsnewlabel.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="socialchat"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/socialchat.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessdatausage"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessdatausage.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="navigationrefresh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/navigationrefresh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avrewind"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avrewind.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentmerge"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentmerge.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentcopy"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentcopy.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ratinggood"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/ratinggood.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentunread"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentunread.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentedit"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentedit.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessnewaccount"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessnewaccount.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="socialreplyall"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/socialreplyall.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="locationdirections"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/locationdirections.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="collectionssortbysize"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/collectionssortbysize.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="socialaddperson"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/socialaddperson.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avplayovervideo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avplayovervideo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentselectall"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentselectall.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentsave"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentsave.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbluetoothsearching"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessbluetoothsearching.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentimportexport"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentimportexport.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesslocationfound"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccesslocationfound.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avfullscreen"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avfullscreen.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="hardwaredock"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/hardwaredock.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessstorage"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessstorage.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentpicture"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentpicture.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="socialccbcc"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/socialccbcc.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessnetworkwifi"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessnetworkwifi.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentevent"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentevent.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="hardwaregamepad"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/hardwaregamepad.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="alertsandstatesairplanemodeoff"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/alertsandstatesairplanemodeoff.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="navigationnextitem"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/navigationnextitem.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="imagesrotateleft"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/imagesrotateleft.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessnotsecure"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessnotsecure.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentnew"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentnew.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbrightnesshigh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessbrightnesshigh.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentbackspace"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentbackspace.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbrightnessmedium"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessbrightnessmedium.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentsplit"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentsplit.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesslocationoff"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccesslocationoff.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avrepeat"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avrepeat.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessswitchvideo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessswitchvideo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessdialpad"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessdialpad.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="imagesslideshow"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/imagesslideshow.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentemail"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentemail.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="avmakeavailableoffline"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/avmakeavailableoffline.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="contentcut"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/contentcut.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessnetworkcell"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessnetworkcell.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="hardwarecomputer"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/hardwarecomputer.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbrightnessauto"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessbrightnessauto.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessendcall"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessendcall.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ratingfavorite"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/ratingfavorite.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessvolumeon"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessvolumeon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesslocationsearching"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccesslocationsearching.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessvideo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/deviceaccessvideo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="navigationexpand"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-mdpi/navigationexpand.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="ch"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/ch.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ae"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/ae.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="s"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/s.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="t"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/t.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ah1"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/ah1.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ng"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/ng.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="axr"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/axr.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="oy1"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/oy1.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="zh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/zh.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="uw1"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/uw1.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="f"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/f.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="aw"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/aw.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="aw1"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/aw1.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ow1"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/ow1.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ao1"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/ao1.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ae1"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/ae1.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="eh1"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/eh1.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="g"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/g.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="dh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/dh.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ih1"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/ih1.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="uh1"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/uh1.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="r"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/r.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="hh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/hh.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="er_"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/er_.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="v"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/v.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="iy"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/iy.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="n"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/n.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="th"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/th.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="oy"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/oy.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="y"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/y.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="uw"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/uw.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="l"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/l.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="p"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/p.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="eh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/eh.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ax0"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/ax0.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="er"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/er.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="uh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/uh.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="b"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/b.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="aa"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/aa.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="w"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/w.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="d"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/d.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ih"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/ih.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="sh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/sh.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="jh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/jh.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="k"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/k.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="z"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/z.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="aa1"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/aa1.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="m"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/m.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ah0"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/ah0.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="iy1"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/iy1.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                name="ay"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/raw/ay.ogg"
+                qualifiers=""
+                type="raw" />
+            <file
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="deviceaccessbattery"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessbattery.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="imagesrotateright"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/imagesrotateright.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="navigationcollapse"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/navigationcollapse.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="hardwarekeyboard"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/hardwarekeyboard.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="collectionscloud"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/collectionscloud.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessalarms"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessalarms.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avstop"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avstop.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="socialforward"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/socialforward.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessaddalarm"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessaddalarm.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessscreenlockedtoportrait"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessscreenlockedtoportrait.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="socialaddgroup"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/socialaddgroup.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avfastforward"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avfastforward.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesssdstorage"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccesssdstorage.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="alertsandstatesairplanemodeon"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/alertsandstatesairplanemodeon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="hardwareheadphones"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/hardwareheadphones.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbightnesslow"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessbightnesslow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avpause"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avpause.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesscall"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccesscall.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessaccounts"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessaccounts.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ratingnotimportant"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/ratingnotimportant.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ratingbad"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/ratingbad.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="navigationback"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/navigationback.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentpaste"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentpaste.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessmicmuted"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessmicmuted.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessflashoff"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessflashoff.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avplay"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avplay.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avdownload"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avdownload.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessflashon"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessflashon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="socialshare"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/socialshare.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentattachment"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentattachment.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="collectionsviewasgrid"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/collectionsviewasgrid.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="hardwareheadset"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/hardwareheadset.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesssecure"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccesssecure.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avreturnfromfullscreen"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avreturnfromfullscreen.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ratinghalfimportant"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/ratinghalfimportant.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avnext"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avnext.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentundo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentundo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="imagescrop"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/imagescrop.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessmic"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessmic.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="collectionslabels"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/collectionslabels.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentremove"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentremove.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbluetoothconnected"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessbluetoothconnected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avpauseovervideo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avpauseovervideo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="locationwebsite"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/locationwebsite.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbluetooth"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessbluetooth.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="collectionsgototoday"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/collectionsgototoday.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="locationplace"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/locationplace.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ratingimportant"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/ratingimportant.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessflashautomatic"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessflashautomatic.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessvolumemuted"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessvolumemuted.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentread"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentread.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="locationmap"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/locationmap.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="iclauncher"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/iclauncher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avupload"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avupload.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="alertsandstateserror"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/alertsandstateserror.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avaddtoqueue"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avaddtoqueue.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentdiscard"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentdiscard.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="navigationforward"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/navigationforward.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="actionsettings"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/actionsettings.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="hardwarephone"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/hardwarephone.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="navigationaccept"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/navigationaccept.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="alertsandstateswarning"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/alertsandstateswarning.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentnewattachment"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentnewattachment.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="actionhelp"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/actionhelp.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avreplay"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avreplay.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesscamera"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccesscamera.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesstime"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccesstime.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="collectionscollection"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/collectionscollection.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="socialreply"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/socialreply.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentnewevent"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentnewevent.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentnewemail"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentnewemail.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="actionabout"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/actionabout.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessswitchcamera"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessswitchcamera.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="navigationpreviousitem"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/navigationpreviousitem.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="navigationcancel"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/navigationcancel.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessscreenlockedtolandscape"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessscreenlockedtolandscape.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avprevious"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avprevious.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="hardwaremouse"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/hardwaremouse.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="socialsendnow"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/socialsendnow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="collectionsviewaslist"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/collectionsviewaslist.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessusb"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessusb.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="socialperson"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/socialperson.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessscreenrotation"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessscreenrotation.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="actionsearch"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/actionsearch.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avshuffle"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avshuffle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentnewpicture"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentnewpicture.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="socialgroup"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/socialgroup.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessringvolume"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessringvolume.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="collectionsnewlabel"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/collectionsnewlabel.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="socialchat"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/socialchat.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessdatausage"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessdatausage.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="navigationrefresh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/navigationrefresh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avrewind"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avrewind.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentmerge"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentmerge.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentcopy"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentcopy.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ratinggood"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/ratinggood.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentunread"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentunread.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentedit"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentedit.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessnewaccount"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessnewaccount.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="socialreplyall"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/socialreplyall.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="locationdirections"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/locationdirections.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="collectionssortbysize"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/collectionssortbysize.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="socialaddperson"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/socialaddperson.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avplayovervideo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avplayovervideo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentselectall"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentselectall.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentsave"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentsave.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbluetoothsearching"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessbluetoothsearching.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentimportexport"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentimportexport.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesslocationfound"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccesslocationfound.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avfullscreen"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avfullscreen.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="hardwaredock"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/hardwaredock.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessstorage"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessstorage.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentpicture"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentpicture.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="socialccbcc"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/socialccbcc.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessnetworkwifi"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessnetworkwifi.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentevent"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentevent.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="hardwaregamepad"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/hardwaregamepad.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="alertsandstatesairplanemodeoff"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/alertsandstatesairplanemodeoff.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="navigationnextitem"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/navigationnextitem.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="imagesrotateleft"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/imagesrotateleft.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessnotsecure"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessnotsecure.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentnew"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentnew.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbrightnesshigh"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessbrightnesshigh.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentbackspace"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentbackspace.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbrightnessmedium"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessbrightnessmedium.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentsplit"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentsplit.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesslocationoff"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccesslocationoff.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avrepeat"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avrepeat.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessswitchvideo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessswitchvideo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessdialpad"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessdialpad.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="imagesslideshow"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/imagesslideshow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentemail"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentemail.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="avmakeavailableoffline"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/avmakeavailableoffline.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="contentcut"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/contentcut.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessnetworkcell"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessnetworkcell.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="hardwarecomputer"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/hardwarecomputer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessbrightnessauto"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessbrightnessauto.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessendcall"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessendcall.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ratingfavorite"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/ratingfavorite.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessvolumeon"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessvolumeon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccesslocationsearching"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccesslocationsearching.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="deviceaccessvideo"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/deviceaccessvideo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="navigationexpand"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/main/res/drawable-hdpi/navigationexpand.png"
+                qualifiers="hdpi"
+                type="drawable" />
+        </source>
+        <source path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/debug/res" />
+    </dataSet>
+
+</merger>

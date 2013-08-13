@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/assets" >
+            <file
+                name="cmudict.0.7a.sqlite"
+                path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/assets/cmudict.0.7a.sqlite" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/kizzlebot/AndroidStudioProjects/PhoneticProject/Phonetic/src/debug/assets" />
+    </dataSet>
+
+</merger>
