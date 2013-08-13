@@ -11,8 +11,11 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
-
-
+import android.view.MenuInflater;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.widget.SearchView;
+import android.app.SearchManager;
 
 public class MainActivity extends Activity {
 
@@ -52,11 +55,47 @@ public class MainActivity extends Activity {
 		startService( serviceIntent );
 		//stopService( serviceIntent );
 	}
+
+
+	/* Action bar */
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu items for use in the action bar
+		MenuInflater inflater = getMenuInflater();
+		inflater.inflate(R.menu.main_activity_actions, menu);
+
+		/* SearchView  */
+		SearchManager searchManager = (SearchManager) getSystemService(Context.SEARCH_SERVICE);
+		SearchView searchView = (SearchView) menu.findItem(R.id.action_search).getActionView();
+		// Assumes current activity is the searchable activity
+		searchView.setSearchableInfo(searchManager.getSearchableInfo(getComponentName()));
+		searchView.setIconifiedByDefault(false); // Do not iconify the widget; expand it by default
+
+		// Need to set setonSomething method here to start the search
+
+		return super.onCreateOptionsMenu(menu);
+	}
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) {
+		// Handle presses on the action bar items
+		switch (item.getItemId()) {
+			case R.id.action_search:
+				//openSearch();
+				return true;
+			case R.id.action_settings:
+				//openSettings();
+				return true;
+			default:
+				return super.onOptionsItemSelected(item);
+		}
+	}
+
+
 	public class ResponseReceiver extends BroadcastReceiver {
 		private String DTAG = "ResponseReceiver";
 
 		public static final String ACTION_RESP =
-				"com.kizzlebot.phonetics.intent.action.MESSAGE_PROCESSED";
+				"com.kizzlebot.phonetic.intent.action.MESSAGE_PROCESSED";
 		public void onReceive(Context context, Intent intent) {
 			if (intent.getIntExtra(MuzakService.PARAM_OUT_MSG,0) == 1){
 				stopService( intent );
@@ -65,4 +104,5 @@ public class MainActivity extends Activity {
 
 		}
 	}
+
 }
